@@ -1,7 +1,7 @@
-// PARTNER NAME:
+// PARTNER NAME: Eduardo M
 // PARTNER NAME:
 // CS111 SECTION #:
-// DATE:
+// DATE: 3/13/25
 
 public class Main
 {
